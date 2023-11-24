@@ -5,6 +5,6 @@ This is the backend for Byteboard, an online job-seeking forum for all things re
 This project was the final assignment for Web Programming II.
 
 ### Team Members
-Caden Marion
-Ryan Meziane
+Caden Marion<br>
+Ryan Meziane<br>
 Jeff Anderson Charriot
